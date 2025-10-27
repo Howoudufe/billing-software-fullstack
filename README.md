@@ -1,11 +1,11 @@
 # E-Commerce Full-Stack Project
 
-A showcase full-stack project demonstrating backend API development, database integration, and cloud storage (AWS S3). Frontend is scaffolded with Vue.js.
+A showcase full-stack project demonstrating backend API development, database integration, and cloud storage (AWS S3). Frontend is scaffolded with React.js.
 
 ## Tech Stack
 
 - **Backend:** Java, Spring Boot, Maven
-- **Frontend:** Vue.js, Vite (currently scaffolded)
+- **Frontend:** React.js, Vite (currently scaffolded)
 - **Database:** MySQL
 - **Cloud Storage:** AWS S3
 - **Version Control:** Git + GitHub
@@ -16,7 +16,7 @@ BillingSoftware/
 ├── BillingSoftware/        # Backend
 │    ├── src/
 │    └── pom.xml
-└── client/                 # Frontend scaffold (Vue)
+└── client/                 # Frontend (in progress)
      ├── src/
      └── package.json
 ```
